@@ -7,8 +7,6 @@ sites:
     url: https://www.google.com
   - name: alvarosaavedra
     url: https://alvarosaavedra.net
-  - name: Test broken site
-    url: https://thissitedoesnotexists.koj.co
 
 assignees:
   - alvarosaavedrau
