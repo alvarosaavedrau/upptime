@@ -5,8 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: alvarosaavedra.net
+  - name: alvarosaavedra
     url: https://alvarosaavedra.net
+  - name: Test broken site
+    url: https://thissitedoesnotexists.koj.co
+
+assignees:
+  - alvarosaavedrau
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
